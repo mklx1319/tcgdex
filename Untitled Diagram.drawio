@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T07:39:33.705Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="_ahDKU5UwtobBLelTHBG" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T07:51:17.101Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="WiEjgMi1TDYtuvRr97pz" version="14.4.2" type="github">
   <diagram id="eKRGfKMBqLc3NzJdIPlq" name="Page-1">
-    <mxGraphModel dx="2442" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5625" dy="3105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,6 +294,45 @@
         </mxCell>
         <mxCell id="-m6qlQXstEaMMELnGQX9-72" value="Pre-print" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-75" value="Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-76" value="get all&lt;br&gt;order delivered" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-77" value="get history status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-78" value="get order&lt;br&gt;by duration time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-79" value="get rate proce&lt;br&gt;zone by weight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-80" value="get all&lt;br&gt;order received" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-81" value="get order by barcode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-82" value="get rate&lt;br&gt;by manifest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-83" value="get status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-84" value="get all&lt;br&gt;order reverse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-85" value="get order by barcodes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-86" value="get rate&lt;br&gt;price by weight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-87" value="report json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
