@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T08:19:17.417Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="o1-l-RawGMx1Pm7FDWFF" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T08:58:00.283Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="CnY8-KmJSJmewUm87CI-" version="14.4.2" type="github">
   <diagram id="eKRGfKMBqLc3NzJdIPlq" name="Page-1">
-    <mxGraphModel dx="2442" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,29 +208,23 @@
         <mxCell id="-m6qlQXstEaMMELnGQX9-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-m6qlQXstEaMMELnGQX9-54" target="-m6qlQXstEaMMELnGQX9-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-m6qlQXstEaMMELnGQX9-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-m6qlQXstEaMMELnGQX9-54" target="-m6qlQXstEaMMELnGQX9-58">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-m6qlQXstEaMMELnGQX9-54" value="Order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-m6qlQXstEaMMELnGQX9-55" value="create" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1540" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-m6qlQXstEaMMELnGQX9-56" value="update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-m6qlQXstEaMMELnGQX9-56" value="cancle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1540" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-m6qlQXstEaMMELnGQX9-57" value="cancle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-m6qlQXstEaMMELnGQX9-57" value="Freight inquiry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1540" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-m6qlQXstEaMMELnGQX9-58" value="Batch create" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-m6qlQXstEaMMELnGQX9-66" value="&lt;ul&gt;&lt;li&gt;&#39;D&#39; = บริการ Drop off&lt;/li&gt;&lt;li&gt;&#39;L&#39; = Lex&lt;/li&gt;&lt;li&gt;&#39;W&#39; = Warehouse&lt;/li&gt;&lt;li&gt;&#39;C&#39; = Crossborder&lt;/li&gt;&lt;li&gt;&#39;I&#39; = R ต่างประเทศ&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="630" width="170" height="120" as="geometry" />
+        <mxCell id="-m6qlQXstEaMMELnGQX9-66" value="&lt;ul&gt;&lt;li&gt;1 pickup&lt;/li&gt;&lt;li&gt;6 drop off&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="550" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-m6qlQXstEaMMELnGQX9-67" value="required field&lt;br&gt;&lt;ul&gt;&lt;li&gt;สาขาที่ dropoff&lt;/li&gt;&lt;li&gt;email&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="550" width="210" height="110" as="geometry" />
+          <mxGeometry x="1790" y="550" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-m6qlQXstEaMMELnGQX9-68" value="ออกแบบ&lt;br&gt;ระบบกล่อง&lt;br&gt;ระบบส่วนลดขนส่ง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="170" width="120" height="60" as="geometry" />
@@ -310,23 +304,28 @@
         <mxCell id="-m6qlQXstEaMMELnGQX9-93" value="retention" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="392" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-m6qlQXstEaMMELnGQX9-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-m6qlQXstEaMMELnGQX9-96" target="-m6qlQXstEaMMELnGQX9-97">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-m6qlQXstEaMMELnGQX9-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-m6qlQXstEaMMELnGQX9-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="422" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="422" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-m6qlQXstEaMMELnGQX9-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-m6qlQXstEaMMELnGQX9-96" target="-m6qlQXstEaMMELnGQX9-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-m6qlQXstEaMMELnGQX9-96" value="PDF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="-m6qlQXstEaMMELnGQX9-96" value="Exptess track" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="312" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-m6qlQXstEaMMELnGQX9-97" value="Deposit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-m6qlQXstEaMMELnGQX9-98" value="Pre-print" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="830" width="120" height="60" as="geometry" />
+        <mxCell id="-m6qlQXstEaMMELnGQX9-98" value="tracking push" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="462" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-m6qlQXstEaMMELnGQX9-99" value="Address data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="462" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-m6qlQXstEaMMELnGQX9-101" value="tracking query" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
